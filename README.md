@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khadim.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadimhussain0/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/khadimh0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadimkhan78655@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadimxai@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01afcdaffc896a437f)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/khadim-hussain)
 
@@ -112,14 +112,14 @@ Looking for a **Machine Learning Engineer** to build your next AI product? I'm a
 
 💬 **Ask me about:** LLM Integration, Computer Vision, Model Optimization, AI in Production
 
-📧 **Email:** khadimkhan78655@gmail.com
+📧 **Email:** khadimxai@gmail.com
 
 ---
 
 <div align="center">
 
 [![Hire on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01afcdaffc896a437f)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadimkhan78655@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadimxai@gmail.com)
 
 **Open to opportunities worldwide**
 
