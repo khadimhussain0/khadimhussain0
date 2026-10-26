@@ -21,7 +21,7 @@
 
 Machine Learning Engineer with 4+ years of experience building **production-grade AI systems** for enterprises. I specialize in **Large Language Models (LLMs)**, **Generative AI**, **Computer Vision**, and **Deep Learning** — taking projects from research to deployment.
 
-- 🔭 **Currently:** ML Engineer at **elunic AG** — developing Industry 4.0 AI solutions with 99.9%+ accuracy
+- 🔭 **Currently:** ML Engineer at **elunic AG** — developing Industry 4.0 AI solutions with 99.999% accuracy
 - 🎓 **Education:** MS in Computer Science (in progress) | BS in Information Technology
 - 📍 **Based in:** Munich, Germany — Available worldwide for remote projects
 - ⚡ **Passion:** Implementing research papers in PyTorch and building models from scratch
@@ -96,7 +96,7 @@ Edge AI • Mobile Deployment • AI-Augmented Development • Production AI
 
 - **Production Experience:** Built AI systems serving real users at scale in Industry 4.0
 - **End-to-End Delivery:** From data annotation to model deployment and monitoring
-- **Performance Focused:** Achieved 70% inference speed improvement and 99.9%+ accuracy
+- **Performance Focused:** Achieved 70% inference speed improvement and 99.999% accuracy
 - **Clear Communication:** Regular updates, documentation, and knowledge transfer
 
 ---
