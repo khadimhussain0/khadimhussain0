@@ -28,6 +28,19 @@ Machine Learning Engineer with 4+ years of experience building **production-grad
 
 ---
 
+### Writing and videos
+
+Hands-on write-ups from my own tests, on [khadim.tech](https://khadim.tech/blog) and my YouTube channel [Khadim Labs](https://www.youtube.com/@khadimlabs):
+
+- [Ollama no longer supports LoRA adapters: how to run a fine-tune now](https://khadim.tech/blog/ollama-lora-adapters)
+- [Fine-tuning gpt-oss-20b with Unsloth and running it in Ollama](https://khadim.tech/blog/fine-tune-gpt-oss-20b-unsloth-ollama)
+- [TensorRT INT8 vs FP16 on RF-DETR: why INT8 didn't pay off](https://khadim.tech/blog/tensorrt-int8-vs-fp16-rf-detr)
+- [Is SynthID reliable? A hands-on test of Google's AI image check](https://khadim.tech/blog/is-synthid-reliable)
+- [Claude Code on Windows: install it and use it with no coding](https://khadim.tech/blog/claude-code-windows)
+- [Claude Cowork on Windows, tested on 3 messy folders](https://khadim.tech/blog/claude-cowork-windows)
+
+---
+
 ### Services — What I Can Build For You
 
 | Service | Description |
